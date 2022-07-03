@@ -1,0 +1,14 @@
+
+
+p{
+    background-color: aquamarine;
+    width:800px;
+    height:300px;
+    border:2px solid black;
+    padding:10px;
+    border-radius: 15px;
+    margin:0 auto;
+    background-image: url(imag-789.jpg) ;
+    background-image: no-repeat;
+    
+}
